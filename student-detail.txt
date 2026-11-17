@@ -1,0 +1,4 @@
+Name:"Nazma"
+USN:"1GC25AI028"
+SECTION:"D sectin"
+YEAR:"2nd YEAR"
